@@ -805,7 +805,7 @@ table.pricing tr:last-child td {
 .sketch-panel {
     border-radius: var(--radius-md);
     aspect-ratio: 1/1.05;
-    background-image: url(/Assets/Img/comisiones.png);
+    background-image: url(../Img/comisiones.png);
     background-size: cover;
     border: 1.5px solid rgba(22, 60, 58, 0.15);
 }
